@@ -21,7 +21,8 @@
   <!-- AGL things. -->
   <project name="AGL/meta-agl" path="meta-agl" />
   <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
-  <project name="AGL/meta-agl-devel" path="meta-agl-devel" />
+  <!-- <project name="AGL/meta-agl-devel" path="meta-agl-devel" /> -->
+  <project name="malik727/meta-agl-devel" remote="github" path="meta-agl-devel" />
 
 
   <!-- ALL EXTERNAL REPOS BELOW USE A FIXED REVISION ! -->
